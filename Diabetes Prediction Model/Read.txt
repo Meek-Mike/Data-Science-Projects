@@ -1,0 +1,3 @@
+This is a project to solve problem with late detection of Diabetes infection.
+Please your suggestions are welcome.
+Thank you
